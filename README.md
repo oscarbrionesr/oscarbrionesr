@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning data science, python, and R
+📫 How to reach me: oscarbrionesr1@gmail.com
+
 <!--
 **oscarbrionesr/oscarbrionesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
