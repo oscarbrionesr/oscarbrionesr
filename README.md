@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on data science projects in Python and R
+- 🌱 Here you will find my data science projects in Python and R
 - 📫 How to reach me: oscarbrionesr1@gmail.com
 
 <!--
