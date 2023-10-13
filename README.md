@@ -3,7 +3,7 @@
 - 🌱 Here you will find my data science projects in Python and R.
   Please feel free to go over my repositories and starred projects!
   
-- 💬 My LinkedIn account: linkedin.com/in/oscarbrionesr
+- 💬 My LinkedIn account: https://www.linkedin.com/in/oscarbrionesr/
   
 - 📫 How to reach me: oscarbrionesr1@gmail.com
 
