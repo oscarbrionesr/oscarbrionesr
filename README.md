@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Here you will find my data science projects in Python and R.
-  Please feel free to go over my repositories and starred projects!
+- 🌱 Here you will find my coding projects.
+  Please feel free to go over my repositories!
   
 - 💬 My LinkedIn account: https://www.linkedin.com/in/oscarbrionesr/
   
