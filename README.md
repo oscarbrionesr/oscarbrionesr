@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Here you will find my coding projects.
+- 🌱 Here you will find my coding projects. I am seasoned in JS, Python, HTML & CSS.
   Please feel free to go over my repositories!
   
 - 💬 My LinkedIn account: https://www.linkedin.com/in/oscarbrionesr/
